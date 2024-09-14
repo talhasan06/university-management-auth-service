@@ -1,0 +1,175 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\.8a45251e83e9ce97cc32d91cea7150ec0cac83ae-audit.json",
+  "files": [
+    {
+      "date": 1725357728711,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-03-09-16-error.log",
+      "hash": "5838da0efa1d464d57ea5ec600c7f7720e8c6a933e908d3b4c11015e42ccf99f"
+    },
+    {
+      "date": 1725557397660,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-05-09-23-error.log",
+      "hash": "5d4e455342c27e36a4be8b0d217530884adc3b9b3366ed29b303982e0ea51601"
+    },
+    {
+      "date": 1725605949621,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-06-09-12-error.log",
+      "hash": "4d8eba11c47edc26f4f407249437aedd3d97d37e6f529a529d52cac288fd2e03"
+    },
+    {
+      "date": 1725606125432,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-06-09-13-error.log",
+      "hash": "8141996bd489c28c411a46e61eb96c6830852884bd7952fb17cfbc14353efe7a"
+    },
+    {
+      "date": 1725614828084,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-06-09-15-error.log",
+      "hash": "bffc64be2af3af11d8848328c036aa65c0d51eb33661bce8bc322dc3189b65ac"
+    },
+    {
+      "date": 1725618550696,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-06-09-16-error.log",
+      "hash": "fe9255a3194cdd2ba44c4a472e8ca6e79113dcdcade71e5e867a4b888b6a4bf4"
+    },
+    {
+      "date": 1725628123113,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-06-09-19-error.log",
+      "hash": "8df6e62d5aca97a1fc43541ebe84d04af9fd480244d3c86bb07b7297f6d312ed"
+    },
+    {
+      "date": 1725632631400,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-06-09-20-error.log",
+      "hash": "adc352ed3a016e1f6deb2235344a20667bac23235bd9345891d30db3d1166d2a"
+    },
+    {
+      "date": 1725696048826,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-07-09-14-error.log",
+      "hash": "e8959b6964a8941f2a27254b6ab0c4bb183e877003eb0ccc53571bf59ea32056"
+    },
+    {
+      "date": 1725701579621,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-07-09-15-error.log",
+      "hash": "6f473f116f9692435516c3db57cdf74b211b07e5ed5e4b01132e19e287929ba2"
+    },
+    {
+      "date": 1725703369137,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-07-09-16-error.log",
+      "hash": "23c4ad05664329a553c573aceb6ebc885ba3fa749e618b22c8e94471e1e0bd64"
+    },
+    {
+      "date": 1725712884519,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-07-09-18-error.log",
+      "hash": "b2f0cf4dffd92a56aa66e5e45c2ca76b36b56501fbf89befe333cfd1237a878d"
+    },
+    {
+      "date": 1725783361748,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-08-09-14-error.log",
+      "hash": "2a936e798ee81c150239d4cf35f0bf4403edf2dabb427696bdecf13e17a9d8e3"
+    },
+    {
+      "date": 1725786208965,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-08-09-15-error.log",
+      "hash": "12ed807a11c540f2c8c1ee22c129105faa96665cfc91f57f98f4fe5d8a1cbfee"
+    },
+    {
+      "date": 1725854576851,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-09-09-10-error.log",
+      "hash": "a078003eec10fbe091534dbddfdfb78513733b3bf19cb19567a47d1dc5244b8a"
+    },
+    {
+      "date": 1725861523294,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-09-09-11-error.log",
+      "hash": "23e2e936d0685ff3aad9006498ad4ae92acc1708a4cf642a15990f3e9fa2544e"
+    },
+    {
+      "date": 1725861667440,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-09-09-12-error.log",
+      "hash": "f23acf274536c05e6e4776d776a61aa6cc82c8e8ea9b6e9a2c65e189cfb0e9eb"
+    },
+    {
+      "date": 1725865402173,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-09-09-13-error.log",
+      "hash": "908cc39506e3cf7e5489e84bb0c06028c3cb27e98b96961b624540bded7c2ff2"
+    },
+    {
+      "date": 1725869447674,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-09-09-14-error.log",
+      "hash": "b66b002963194f712a4d1ab6665e07e967a9dc2ffb1e9e22410f0802ab4b4e90"
+    },
+    {
+      "date": 1725872545845,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-09-09-15-error.log",
+      "hash": "cf1ae45e59cfce4dde269d2d167945b65b30544b7b1849bb7a54d4a93c661392"
+    },
+    {
+      "date": 1725892295220,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-09-09-20-error.log",
+      "hash": "85009a7d2ae15c9aaa46833e8628f8d84210e1484411e8c57d8379ae5129dda6"
+    },
+    {
+      "date": 1725894500216,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-09-09-21-error.log",
+      "hash": "9ebe698428becef909cc92f6f6d0987128774f60f5509954b8dffe6ccc81cc2c"
+    },
+    {
+      "date": 1725902399602,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-09-09-23-error.log",
+      "hash": "58dcd46fe08d482768413787b134b6ab93e9e5c0ac59b93e71661f4ee1bc791d"
+    },
+    {
+      "date": 1725904815620,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-10-09-00-error.log",
+      "hash": "32379ed4788a4670b9f8d19db44603a9e3900a25df01f68742e0581db595b719"
+    },
+    {
+      "date": 1726041641928,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-11-09-14-error.log",
+      "hash": "1433f87bf0c4a4951eb930cd5cff59fa2098ceadd6d210a5c5a105117780c38e"
+    },
+    {
+      "date": 1726123849524,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-12-09-12-error.log",
+      "hash": "07d6a5757cae8593ba66cdf2237c57edca4c00b1057a41d8536e6988ebef7e5f"
+    },
+    {
+      "date": 1726125443204,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-12-09-13-error.log",
+      "hash": "71cf822cdcfc1f195d11d93ced5f55a23bc1970ccf8cef51ea3df9576b1ea9d7"
+    },
+    {
+      "date": 1726131984257,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-12-09-15-error.log",
+      "hash": "9945a3263e58f7d1cfdb72c01ff43f2ec49112dd71d123054546bf2802a92ac2"
+    },
+    {
+      "date": 1726138368678,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-12-09-16-error.log",
+      "hash": "5b0cbd9f982109baa7d73d2d2d6b556f23a498b15879a2fee0d60adf529d3949"
+    },
+    {
+      "date": 1726140153491,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-12-09-17-error.log",
+      "hash": "244fc229fadf0e3730b380a1e62240f96f10af654233e7cfe86a8f17635a39d1"
+    },
+    {
+      "date": 1726142731852,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-12-09-18-error.log",
+      "hash": "ae7227e296f412c5af24d18cffb15642756f0ea53e3a4a094c2023472db7b336"
+    },
+    {
+      "date": 1726173804936,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-13-09-02-error.log",
+      "hash": "8860a805ec7b92fcfb307deebb593f7d7570a72663529eb5fab53e5f0a4feee5"
+    },
+    {
+      "date": 1726174910053,
+      "name": "C:\\Users\\joyaj\\OneDrive\\Desktop\\Level-2 Programing\\university-management-auth-service\\logs\\winston\\error\\phu-2024-13-09-03-error.log",
+      "hash": "babc9a51276be38e25afab0398f28196ba8f355c4f3e217f2e6a4b1e898e6901"
+    }
+  ],
+  "hashType": "sha256"
+}
